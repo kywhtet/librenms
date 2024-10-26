@@ -1,5 +1,5 @@
-name: librenms
-
+version: '3.3'
+#name: librenms
 services:
   db:
     image: mariadb:10
